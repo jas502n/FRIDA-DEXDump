@@ -274,7 +274,7 @@ root@kali:/tmp/demo# python3 t.py
 flag{67587AAF-C20A-4B6D-991B-A40FD3C2098E}
 
 ```
-![](./flag.png)
+![](./java_flag.png)
 
 ## 参考链接：
 

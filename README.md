@@ -11,6 +11,9 @@ pip install objection
 
 一台root过的安卓设备机器，安卓版本：8.1.0
 ```
+https://github.com/frida
+https://github.com/frida/frida-tools
+https://github.com/sensepost/objection
 
 ## 0x01 安装apk
 
